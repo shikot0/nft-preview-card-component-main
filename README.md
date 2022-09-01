@@ -1,0 +1,1 @@
+I made the card rather big for readability purposes but it works on smaller screens as well!!
